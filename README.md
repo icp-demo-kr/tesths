@@ -3,7 +3,7 @@ A generated IBM Cloud application
 
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
 
-## Run locally as Node.js application
+## Run locally as Node.js --test application
 
 ```bash
 npm install
